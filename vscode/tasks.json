@@ -1,0 +1,27 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Therac",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "main.cpp",
+                "Step.cpp",
+                "Graph.cpp",
+                "Risk.cpp",
+                "Undo.cpp",
+                "Utils.cpp",
+                "-o",
+                "therac.exe"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [
+                "$gcc"
+            ]
+        }
+    ]
+}
