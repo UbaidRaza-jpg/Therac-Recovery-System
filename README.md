@@ -36,4 +36,4 @@ therac
 
 ## Authors
 
-Muhammad Ubaid Raza
+* **Developed By**: [Muhammad Ubaid Raza](https://ubaidraza-jpg.github.io/portfolio/)
